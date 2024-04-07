@@ -1,0 +1,35 @@
+/\*
+--- 01 Typography ---
+
+- Font sizes(px)
+  10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+- Font weights
+
+- Font families
+
+- Line heights
+  Default: 1
+
+--- 02 Colors ---
+
+Primary color: #e67e22
+
+-Tints:
+-Shades:
+-Accent colors:
+-Greys:
+#555
+
+--- 03 Images ---
+--- 04 Icons ---
+--- 05 Shadows ---
+
+--- 06 Border-radius ---
+
+--- 07 Whitespacing ---
+
+- SPACING SYSTEM(px)
+  2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 96 / 128 / 192 / 256
+
+\*/
